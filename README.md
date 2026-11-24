@@ -179,7 +179,7 @@ If you use this codebase or research in your work, please cite:
 ```bibtex
 @article{shekhar2024speech,
   title={Analyzing Sentiments and Recognizing Emotions in Speech through Universal Speech Recognition Models},
-  author={Shekhar, Somil and Chokshi, Hina Jignesh},
+  author={Shekhar Somil and Chokshi Hina Jignesh},
   journal={Department of Computer Science, Parul Institute of Computer Applications, Parul University},
   year={2024}
 }

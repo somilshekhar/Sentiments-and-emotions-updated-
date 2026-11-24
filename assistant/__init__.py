@@ -1,0 +1,3 @@
+from .dialogue_manager import ProfessionalDialogueManager
+from .tts_engine import EmotionAdaptiveTTSEngine
+from .multimodal_pipeline import MultimodalSpeechEmotionAssistant

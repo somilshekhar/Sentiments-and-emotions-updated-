@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data & Models
+data_storage/
+saved_models/
+results/
+*.wav
+*.mp3
+*.zip
+*.tar.gz
+assistant_memory.db
+assistant_records.db
+
+# OS
+.DS_Store
+Thumbs.db

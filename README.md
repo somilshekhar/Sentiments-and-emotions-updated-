@@ -89,7 +89,7 @@ Evaluated on English speech emotion benchmark datasets (RAVDESS, IEMOCAP, CREMA-
 ├── config.py                                 # Global hyperparameters and configuration
 ├── requirements.txt                          # Dependencies
 ├── main.py                                   # Entry point for training, evaluation, and demo
-├── ArshiAssistant.ipynb.py                   # Self-contained research script
+├── speech_emotion_sentiment_pipeline.py   # Self-contained research pipeline
 │
 ├── features/                                 # Feature extraction
 │   ├── __init__.py
